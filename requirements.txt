@@ -1,5 +1,0 @@
-express
-mysql
-cors
-dotenv
-he
